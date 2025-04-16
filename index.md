@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing (Co-located with IEEE ICDM 2025)
+# RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing (IEEE ICDM 2025)
 
 Time: **Nov 11-15, 2025**
 
