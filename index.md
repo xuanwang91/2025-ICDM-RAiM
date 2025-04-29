@@ -56,4 +56,4 @@ The half‑day program will feature:
 - Yingyan Zeng, University of Cincinnati
 
 Join us in shaping the future of resilient AI for manufacturing by contributing your latest research to RAiM 2025. We look forward to receiving your submissions and to an engaging, in‑person workshop at IEEE ICDM 2025.
-For any questions about scope, submissions, or logistics, please reach out to the Workshop Co-Chairs, Dr. Ran Jin, Dr. Ismini Lourentzou, and Dr. Xuan Wang at TBD.
+For any questions about scope, submissions, or logistics, please reach out to the Workshop Co-Chairs, Dr. Ran Jin, Dr. Ismini Lourentzou, Dr. Xuan Wang, and Dr. Yingyan Zeng at TBD.
