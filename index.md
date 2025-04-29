@@ -11,120 +11,49 @@ Location: **Washington D.C., USA**
 
 
 ## Introduction
-We are delighted to announce the 2nd Undergraduate and High School Symposium, to be held as part of the IEEE ICDM 2025 Conference. This symposium aims to provide a platform for young researchers to showcase their innovative work in the field of data mining and related disciplines.
+With the advent of the Industrial Internet and pervasive computing technologies, manufacturing has entered an era of data-driven decision-making, enabling enhanced production efficiency, product quality, flexibility, and cost optimization. The confluence of AI and manufacturing is of paramount significance nowadays. While prior workshops have touched on manufacturing AI and AI model uncertainties, none have comprehensively addressed the implications of AI resilience within the context of online computation services based on Manufacturing Industrial Internet. An envisioned resilient AI system in manufacturing does not exist today, which is expected to automatically self-heal the AI performance in a timely manner, under various hazardous factors, such as data quality deterioration, AI algorithm singularity, communication and computation node failure, etc. The objective of this one-day RAiM 2025 workshop is to explore how Artificial Intelligence (AI) and Machine Learning (ML) can be resiliently trained and deployed in manufacturing operation tasks, e.g., product design automation, quality and reliability assurance, production control and process control, and human-machine collaborations.
 
 ## Scope of Topics
-We invite submissions of original research papers from undergraduate and high school students on topics related to data mining, including but not limited to:
+We invite submissions of original research papers that address, but are not limited to, the following areas:
 
-- Foundations, algorithms, models, and theory of data mining, including big data mining
-- Machine learning, deep learning, and statistical methods for big data
-- Mining heterogeneous data sources, including text, semi-structured, spatio-temporal, streaming, graph, web, and multimedia data
-- Data mining systems and platforms for analyzing big data, including methods for parallel and distributed data mining, federated learning, and their efficiency, scalability, security, and privacy
-- Data mining for modeling, visualization, personalization, and recommendation
-- Data mining for cyber-physical systems and complex, time-evolving networks
-- Data mining with large language models
-- Novel applications of data mining in data science, including big data analysis in social sciences, physical sciences, engineering, life sciences, climate science, web, marketing, finance, precision medicine, health informatics, and other domains
-
-<!---
-A.  Big Data Science and Foundations
-  - Novel Theoretical Models for Big Data
-  - New Computational Models for Big Data
-  - Data and Information Quality for Big Data
-  - New Data Standards
-
-B.  Big Data Infrastructure
-  - Cloud/Grid/Stream Computing for Big Data
-  - High Performance/Parallel Computing Platforms for Big Data
-  - Autonomic Computing and Cyber-infrastructure, System Architectures, Design and Deployment
-  - Energy-efficient Computing for Big Data
-  - Programming Models and Environments for Cluster, Cloud, and Grid Computing to Support Big Data
-  - Software Techniques and Architectures in Cloud/Grid/Stream Computing
-  - Big Data Open Platforms
-  - New Programming Models for Big Data beyond Hadoop/MapReduce, STORM
-  - Software Systems to Support Big Data Computing
-
-C.  Big Data Management
-  - Data Acquisition, Integration, Cleaning, and Best Practices
-  - Computational Modeling and Data Integration 
-  - Large-scale Recommendation Systems and Social Media Systems
-  - Cloud/Grid/Stream Data Mining- Big Velocity Data
-  - Mobility and Big Data
-  - Multimedia and Multi-structured Data- Big Variety Data
-  - Compliance and Governance for Big Data
-
-D.  Big Data Search and Mining
-  - Social Web Search and Mining
-  - Web Search
-  - Algorithms and Systems for Big Data Search
-  - Distributed, and Peer-to-peer Search
-  - Big Data Search Architectures, Scalability and Efficiency
-  - Link and Graph Mining
-  - Semantic-based Data Mining and Data Pre-processing
-  - Search and Mining of variety of data including scientific and engineering, social, sensor/IoT/IoE, and multimedia data
-
-E.  Big Data Learning and Analytics
-  - Predictive analytics on Big Data
-  - Machine learning algorithms for Big Data
-  - Deep learning for Big Data
-  - Feature representation learning for Big Data
-  - Dimension reduction for Big Data
-  - Physics informed Big Data learning
-  - Visualization Analytics for Big Data 
-
-F.  Data Ecosystem
-  - Data ecosystem concepts, theory, structure, and process
-  - Ecosystem services and management
-  - Methods for data exchange, monetization, and pricing
-  - Trust, resilience, privacy, and security issues
-  - Privacy preserving Big Data collection/analytics
-  - Trust management in Big Data systems
-  - Ecosystem assessment, valuation, and sustainability
-  - Experimental studies of fairness, diversity, accountability, and transparency
-
-G.  Foundation Models for Big Data
-  - Big data management for pre-training
-  - Big data management for fine-tuning
-  - Big data management for prompt-tuning
-  - Prompt Engineering and its Management
-  - Foundation Model Operationalization for multiple users
-
-H.  Big Data Applications
-  - Complex Big Data Applications in Science, Engineering, Medicine, Healthcare, Finance, Business, Law, Education, Transportation, Retailing, Telecommunication
-  - Big Data Analytics in Small Business Enterprises (SMEs)
-  - Big Data Analytics in Government, Public Sector and Society in General
-  - Real-life Case Studies of Value Creation through Big Data Analytics
-  - Big Data as a Service
-  - Big Data Industry Standards
-  - Experiences with Big Data Project Deployments
--->
-
-Submitted papers should present novel ideas, methodologies, algorithms, or applications in the realm of data mining. Papers will be evaluated based on their technical quality, novelty, relevance, and clarity of presentation.
-
-## Eligibility
-- Undergraduate students and high school students pursuing an academic degree at the time of submission are eligible to submit papers as first authors.
-- Each submission must have at least one student author, who should be the presenter if the paper is accepted.
-- Co-authorship with faculty members or researchers is allowed, but the student must be the primary contributor to the work.
+- Reliability/resilience of manufacturing AI models
+- AI model robustness and uncertainty quantification
+- Manufacturing data quality and data sharing
+- Monitoring, diagnosis, and mitigation strategies for manufacturing AI resilience
+- Foundation AI models in manufacturing
+- Human-in-the-loop AI systems in manufacturing
+- Development of benchmark datasets and open-source AI tools for manufacturing AI modeling
 
 ## Submission Format Requirements
-- Submissions must adhere to the IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below: [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)).
-- Undergraduate student research papers should not exceed 6 pages, including all figures, tables, and references.
-- High school student research papers should not exceed 5 pages, including all figures, tables, and references.
-- **Please highlight whether the first author is a high school or an undergraduate student in the author affiliation of your submitted paper.**
+-	Paper length: up to 8 pages of content + up to 2 extra pages for references/appendices (maximum 10 pages total).
+-	Template: following the ICDM 2025 guideline
+-	Review: Papers will be peer-reviewed and selected for invited or poster presentations.
+-	Originality: Submissions must be original and not under consideration elsewhere. Duplicate submissions to multiple ICDM workshops are prohibited.
+-	Proceedings: Accepted papers will appear in the IEEE ICDM 2025 Workshop Proceedings (ICDMW) and in IEEE Xplore. At least one author must register for the full conference and present the paper in person.
 
 ## Important Dates 
-- Paper Submission Deadline: Sep 1, 2025 11:59 PM AoE
-- Notification of Acceptance: Oct 1, 2025 
-- Camera-Ready Paper Submission: Oct 15, 2025
-- Symposium Date: TBD 
+-	Paper Submission Deadline: 29 August 2025
+-	Author Notification: 15 September 2025
+-	Camera‑Ready & Copyright: 25 September 2025
+-	Workshop Date: 12 November 2025 (tentative, Day 1 of ICDM)
 
 ## How to Submit
-- Please submit your papers electronically through the symposium's submission portal: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php).
-- The review process is single-blind, meaning that reviewers remain anonymous to the authors, but authors are not anonymous to the reviewers.
-- All papers accepted by this symposium will be included in the ICDM Workshop Proceedings published by the IEEE Computer Society Press, and made available at the Conference.
-- Each accepted paper must have at least one author to register the conference and present the paper in person during the symposium day at the conference. ICDM offers a one-day registration rate for undergraduate and high school symposium attendees.
+Submit your manuscript as a PDF through the ICDM 2025 Workshop CyberChair portal (link to be announced on the workshop website). Select “RAiM 2025 Workshop” when choosing the submission track.
 
-## Program Agenda
-TBD
+## Attendance & Registration Policy
+At least one organizer and one author per accepted paper must attend ICDM 2025 in person with full registration. Authors who need a U.S. visa should begin the application process early. ICDM does not provide online streaming due to venue constraints.
+
+## Workshop Format
+The half‑day program will feature:
+- 2 keynotes by leading academics/industry experts
+- Peer‑reviewed paper presentations (oral & poster)
+- A panel discussion on open challenges and future directions
 
 ## Program Co-Chairs
-TBD
+- Ran Jin, Virginia Tech
+- Ismini Lourentzou, University of Illinois Urbana‑Champaign
+- Xuan Wang, Virginia Tech
+- Yingyan Zeng, University of Cincinnati
+
+Join us in shaping the future of resilient AI for manufacturing by contributing your latest research to RAiM 2025. We look forward to receiving your submissions and to an engaging, in‑person workshop at IEEE ICDM 2025.
+For any questions about scope, submissions, or logistics, please reach out to the Workshop Co-Chairs, Dr. Ran Jin, Dr. Ismini Lourentzou, and Dr. Xuan Wang at TBD.
