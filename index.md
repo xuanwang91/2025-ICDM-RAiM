@@ -13,7 +13,7 @@ RAiM 2025: The 1st International Workshop on Resilient Artificial Intelligence f
 
 **Registration is TBD! Scan the OR Code for Early Bird/IEEE Member Discount.**
 
-{% include figure.html img="Picture2.pdf" alt="intro image here" width="30%" %}
+{% include figure.html img="Picture2.pdf" alt="intro image here" width="50%" %}
 
 ## Scope of Topics
 We invite submissions of research papers that address, but are not limited to, the following areas:
