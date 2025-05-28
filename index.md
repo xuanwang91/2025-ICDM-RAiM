@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing
+# RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing (ICDM'25)
 
 <div style="display: flex; gap: 10px;">
   {% include figure.html img="Picture1.pdf" alt="intro image here" width="60%" %}
