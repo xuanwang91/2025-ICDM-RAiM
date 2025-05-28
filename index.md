@@ -3,15 +3,13 @@ title: Home
 layout: page
 ---
 
-# RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing (IEEE ICDM 2025)
+# RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing
 
-Time: **Nov 11-15, 2025**
-
-Location: **Washington D.C., USA**
-
+{% include figure.html img="front-page.jpg" alt="intro image here" width="100%" %}
 
 ## Introduction
-With the advent of the Industrial Internet and pervasive computing technologies, manufacturing has entered an era of data-driven decision-making, enabling enhanced production efficiency, product quality, flexibility, and cost optimization. The confluence of AI and manufacturing is of paramount significance nowadays. While prior workshops have touched on manufacturing AI and AI model uncertainties, none have comprehensively addressed the implications of AI resilience within the context of online computation services based on the Manufacturing Industrial Internet. An envisioned resilient AI system in manufacturing does not exist today, which is expected to automatically self-heal the AI performance in a timely manner, under various hazardous factors, such as data quality deterioration, AI algorithm singularity, communication and computation node failure, etc. The objective of this half-day RAiM 2025 workshop is to explore how Artificial Intelligence (AI) and Machine Learning (ML) can be resiliently trained and deployed in manufacturing operation tasks, e.g., product design automation, quality and reliability assurance, production control and process control, and human-machine collaborations.
+RAiM 2025: The 1st International Workshop on Resilient Artificial Intelligence for Manufacturing will be held as a half-day, in-person workshop at the 25th IEEE International Conference on Data Mining (ICDM 2025) in Washington, D.C., USA, on November 12, 2025. RAiM aims to comprehensively address the implications of Artificial Intelligence resilience in Manufacturing Industrial Internet. Despite progress in industrial AI, key challenges remain in maintaining robust performance, such as ensuring resilience to disruptions, detecting failures, adapting in real-time, and recovering from threats like poor data quality or cyberattacks. The RAiM 2025 workshop will integrate expertise in academia and industry to promote original, transdisciplinary research exploring how Artificial Intelligence and Machine Learning can be resiliently trained and deployed in manufacturing, with potential applications in infrastructure, healthcare, energy, human-machine systems, financial technology, etc.
+
 
 ## Scope of Topics
 We invite submissions of original research papers that address, but are not limited to, the following areas:
