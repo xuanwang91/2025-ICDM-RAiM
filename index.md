@@ -5,8 +5,8 @@ layout: page
 
 # RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing (ICDM'25)
 
-<div style="display: flex; gap: 10px;">
-  {% include figure.html img="Picture1.pdf" alt="intro image here" width="60%" %}
+<div style="display: flex; gap: 0px;">
+  {% include figure.html img="Picture1.pdf" alt="intro image here" width="70%" %}
   {% include figure.html img="Picture2.pdf" alt="intro image here" width="30%" %}
 </div>
 
