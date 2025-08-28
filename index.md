@@ -45,7 +45,7 @@ The half‑day program will feature:
 Submit your manuscript as a PDF through the ICDM 2025 Workshop CyberChair portal ([Submission Link](https://www.wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.php?subarea=S)). Select “RAiM 2025 Workshop” when choosing the submission track.
 
 ## Important Dates 
--	Paper Submission Deadline: September 1, 2025
+-	Paper Submission Deadline: ~~September 1, 2025~~ **September 7, 2025**
 -	Author Notification: September 15, 2025
 -	Camera‑Ready & Copyright: September 25, 2025
 -	Workshop Date: November 12, 2025
