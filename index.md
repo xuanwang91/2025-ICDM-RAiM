@@ -60,15 +60,15 @@ Submit your manuscript as a PDF through the ICDM 2025 Workshop CyberChair portal
 At least one author must register for the full conference and present the paper in person. Authors who need a U.S. visa should begin the application process early. ICDM does not provide online streaming due to venue constraints.
 
 ## Program Agenda
-Below is the schedule for our workshop. We look forward to seeing everyone at the workshop in DC!
+Below is our program schedule. We look forward to seeing everyone at the workshop in DC!
 
 <table style="table-layout: fixed; width: 100%; border: 1px solid black; border-collapse: collapse; margin-bottom: 32px;">
   <thead>
     <tr>
-      <th style="width: 160px; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Nov. 12th</th>
-      <th style="width: 200px; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Session</th>
-      <th style="border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Title</th>
-      <th style="width: 280px; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Presenters/Authors</th>
+      <th style="width: 12%; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Nov. 12th</th>
+      <th style="width: 15%; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Session</th>
+      <th style="width: 48%; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Title</th>
+      <th style="width: 25%; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Presenters/Authors</th>
     </tr>
   </thead>
   <tbody>
@@ -110,7 +110,7 @@ Below is the schedule for our workshop. We look forward to seeing everyone at th
     </tr>
     <!-- Paper Presentation II -->
     <tr>
-      <td style="border: 1px solid black; padding: 8px;" rowspan="4">11:30 AM - 12:15 AM</td>
+      <td style="border: 1px solid black; padding: 8px;" rowspan="4">11:30 AM - 12:15 PM</td>
       <td style="border: 1px solid black; padding: 8px;" rowspan="4">Paper Presentation II</td>
       <td style="border: 1px solid black; padding: 8px;"><i>Integrating Vision Language, and Actions in Optical Inspections to Enable Closed-Loop Defect Identification and Remediation</i></td>
       <td style="border: 1px solid black; padding: 8px;">Xiaodong Jia, Tarek Yahia, Kody Haubeil, David Siegel, and Donald Davis</td>
