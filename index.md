@@ -7,6 +7,12 @@ layout: page
 
 {% include figure.html img="Picture1.svg" alt="intro image here" width="100%" %}
 
+Date: **Wednesday, November 12, 2025**
+
+Time: **8:30-12:30 AM ET**
+
+Location: **Capital Hilton (Room: New York), Washington DC, USA**
+
 ## Introduction
 RAiM 2025: The 1st International Workshop on Resilient Artificial Intelligence for Manufacturing will be held as a half-day, in-person workshop at the 25th IEEE International Conference on Data Mining (ICDM 2025) in Washington, D.C., USA, on November 12, 2025. RAiM aims to comprehensively address the implications of Artificial Intelligence resilience in Manufacturing Industrial Internet. Despite progress in industrial AI, key challenges remain in maintaining robust performance, such as ensuring resilience to disruptions, detecting failures, adapting in real-time, and recovering from threats like poor data quality or cyberattacks. The RAiM 2025 workshop will integrate expertise in academia and industry to promote original, transdisciplinary research exploring how Artificial Intelligence and Machine Learning can be resiliently trained and deployed in manufacturing, with potential applications in infrastructure, healthcare, energy, human-machine systems, financial technology, etc.
 
