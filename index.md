@@ -86,7 +86,6 @@ At least one author must register for the full conference and present the paper 
       <td style="border: 1px solid black; padding: 8px;"><i>Robust Analysis for Resilient AI System</i></td>
       <td style="border: 1px solid black; padding: 8px;">Yu Wang, Ran Jin, and Lulu Kang</td>
     </tr>
-
     <!-- Keynote -->
     <tr>
       <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">9:15 AM - 10:00 AM</td>
@@ -94,7 +93,6 @@ At least one author must register for the full conference and present the paper 
       <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">Prof. Haitao Liao</td>
       <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">&nbsp;</td>
     </tr>
-
     <!-- Coffee Break -->
     <tr>
       <td style="border: 1px solid black; padding: 8px;">10:00 AM - 10:30 AM</td>
@@ -102,7 +100,6 @@ At least one author must register for the full conference and present the paper 
       <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
       <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
     </tr>
-
     <!-- Panel Discussion -->
     <tr>
       <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">10:30 AM - 11:30 AM</td>
@@ -110,7 +107,6 @@ At least one author must register for the full conference and present the paper 
       <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">Speakers from NSF, NIST, IMF, and Prof. Peter Beling</td>
       <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">&nbsp;</td>
     </tr>
-
     <!-- Paper Presentation II -->
     <tr>
       <td style="border: 1px solid black; padding: 8px;" rowspan="4">11:30 AM - 12:15 AM</td>
