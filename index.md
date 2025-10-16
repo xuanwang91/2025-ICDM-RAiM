@@ -59,6 +59,81 @@ Submit your manuscript as a PDF through the ICDM 2025 Workshop CyberChair portal
 ## Attendance & Registration Policy
 At least one author must register for the full conference and present the paper in person. Authors who need a U.S. visa should begin the application process early. ICDM does not provide online streaming due to venue constraints.
 
+## Program Agenda
+
+<table style="table-layout: fixed; width: 100%; border: 1px solid black; border-collapse: collapse; margin-bottom: 32px;">
+  <thead>
+    <tr>
+      <th style="width: 160px; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Nov. 12th</th>
+      <th style="width: 200px; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Session</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Title</th>
+      <th style="width: 280px; border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;">Presenters/Authors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Paper Presentation I -->
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;" rowspan="3">8:30 AM - 9:15 AM</td>
+      <td style="border: 1px solid black; padding: 8px;" rowspan="3">Paper Presentation I</td>
+      <td style="border: 1px solid black; padding: 8px;"><i>Measuring Resilience from Cascading Transfer Learning in Manufacturing Systems</i></td>
+      <td style="border: 1px solid black; padding: 8px;">Tyler Cody and Peter Beling</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"><i>Contrastive Ensemble Active Learning for Data Quality Improvements for Resilient Manufacturing AI Model Prediction</i></td>
+      <td style="border: 1px solid black; padding: 8px;">Xuancheng Jin, Yingyan Zeng, Hui Liu, and Ran Jin</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"><i>Robust Analysis for Resilient AI System</i></td>
+      <td style="border: 1px solid black; padding: 8px;">Yu Wang, Ran Jin, and Lulu Kang</td>
+    </tr>
+
+    <!-- Keynote -->
+    <tr>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">9:15 AM - 10:00 AM</td>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">Keynote</td>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">Prof. Haitao Liao</td>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">&nbsp;</td>
+    </tr>
+
+    <!-- Coffee Break -->
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">10:00 AM - 10:30 AM</td>
+      <td style="border: 1px solid black; padding: 8px;">Coffee Break</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+      <td style="border: 1px solid black; padding: 8px;">&nbsp;</td>
+    </tr>
+
+    <!-- Panel Discussion -->
+    <tr>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">10:30 AM - 11:30 AM</td>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">Panel Discussion</td>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">Speakers from NSF, NIST, IMF, and Prof. Peter Beling</td>
+      <td style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">&nbsp;</td>
+    </tr>
+
+    <!-- Paper Presentation II -->
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;" rowspan="4">11:30 AM - 12:15 AM</td>
+      <td style="border: 1px solid black; padding: 8px;" rowspan="4">Paper Presentation II</td>
+      <td style="border: 1px solid black; padding: 8px;"><i>Integrating Vision Language, and Actions in Optical Inspections to Enable Closed-Loop Defect Identification and Remediation</i></td>
+      <td style="border: 1px solid black; padding: 8px;">Xiaodong Jia, Tarek Yahia, Kody Haubeil, David Siegel, and Donald Davis</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"><i>A Reproducible Approach to Virtual Metrology</i></td>
+      <td style="border: 1px solid black; padding: 8px;">Jimmy Pöhlmann, Anna Lopatkina, Paul Jungmann, Claudio Hartmann, and Wolfgang Lehner</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"><i>Human Digital Twin, Precision Healthcare, Health Monitoring, Anomaly Detection, Statistical and Machine Learning Models</i></td>
+      <td style="border: 1px solid black; padding: 8px;">Rong Pan, Hongyue Sun, Xiaoyu Chen, Giulia Pedrielli, and Jiapeng Huang</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"><i>Proposing a Framework for Machine Learning Adoption on Legacy Systems</i></td>
+      <td style="border: 1px solid black; padding: 8px;">Ashiqur Rahman and Hamed Alhoori</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Program Co-Chairs
 - [Ran Jin](https://sites.google.com/a/vt.edu/ran-jin/), Virginia Tech
 - [Ismini Lourentzou](https://isminoula.github.io/), University of Illinois Urbana‑Champaign
