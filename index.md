@@ -35,9 +35,9 @@ We invite submissions of research papers that address, but are not limited to, t
 ## Keynote Session and Panel Discussion
 The half‑day program will feature:
 
-- 2 keynotes by leading academics/industry experts
+- A keynote by leading academics/industry experts
 - A panel discussion on open challenges and future directions
-- Peer‑reviewed paper presentations (oral & poster)
+- Peer‑reviewed paper oral presentations
 
 ## Submission Format Requirements
 - Paper length: up to 8 pages of content + up to 2 extra pages for references and appendices (maximum 10 pages total).
