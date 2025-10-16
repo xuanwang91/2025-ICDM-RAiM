@@ -9,7 +9,7 @@ layout: page
 
 Date: **Wednesday, November 12, 2025**
 
-Time: **8:30-12:30 AM ET**
+Time: **8:30-12:30 AM Eastern Time**
 
 Location: **Capital Hilton (Room: New York), Washington DC, USA**
 
