@@ -60,6 +60,7 @@ Submit your manuscript as a PDF through the ICDM 2025 Workshop CyberChair portal
 At least one author must register for the full conference and present the paper in person. Authors who need a U.S. visa should begin the application process early. ICDM does not provide online streaming due to venue constraints.
 
 ## Program Agenda
+Below is the schedule for our workshop. We look forward to seeing everyone at the workshop in DC!
 
 <table style="table-layout: fixed; width: 100%; border: 1px solid black; border-collapse: collapse; margin-bottom: 32px;">
   <thead>
